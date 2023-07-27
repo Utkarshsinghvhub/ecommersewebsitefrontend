@@ -1,0 +1,13 @@
+html{
+    position :relative;
+    min-height:80%;
+}
+body{
+    margin-bottom:170 px;
+}
+footer{
+    position:absolute;
+    bottom:-180px;
+    width:100%;
+    height :100 px;
+}
